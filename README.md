@@ -10,6 +10,8 @@ The project was written for the purpose of completing the course at university.
 ## Technologies
 Project is created with:
 * Django
+* HTML
+* CSS
 * Javascript
 * Ajax
 * Bootstrap4
