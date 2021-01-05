@@ -19,7 +19,7 @@ To run this project, install it locally using npm:
 
 ```
 $easy_install virtualenv
-
+```
 Create project folder 
 
 $virtualenv -p python env
