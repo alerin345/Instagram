@@ -39,7 +39,7 @@ $pip install django-extensions
 $python -m pip install Pillow
 $pip install django-bootstrap4
 ```
-```
 To run project:
+```
 $python manage.py runserver
 ```
