@@ -15,7 +15,7 @@ Project is created with:
 * Bootstrap4
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project use python:
 
 ```
 $easy_install virtualenv
