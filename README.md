@@ -15,7 +15,7 @@ Project is created with:
 * Bootstrap4
 
 ## Setup
-To run this project use python:
+To run this project:
 
 ```
 $easy_install virtualenv
